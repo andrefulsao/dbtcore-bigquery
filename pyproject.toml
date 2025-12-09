@@ -9,6 +9,7 @@ readme = "README.md"
 python = "3.12.1"
 dbt-core = "^1.10.15"
 dbt-bigquery = "^1.10.3"
+poetry-dotenv-plugin = "^0.2.0"
 
 
 [tool.poetry.group.dev.dependencies]
