@@ -1,0 +1,10 @@
+{
+    "dbt.deferConfigPerProject": {
+        "": {
+            "favorState": false,
+            "deferToProduction": false,
+            "manifestPathForDeferral": "d:\\projects\\dbtcore-bigquery",
+            "manifestPathType": "local"
+        }
+    }
+}
